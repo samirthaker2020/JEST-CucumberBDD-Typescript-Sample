@@ -22,7 +22,7 @@ Jest is a JavaScript testing framework designed to ensure correctness of any Jav
 
 # Installation
 
-1. Clone the repo- https://github.com/CDL-samir-thaker/JEST-CucumberBDD-Typescript-Project
+1. Clone the repo- https://github.com/samirthaker2020/JEST-CucumberBDD-Typescript-Sample.git
 2. Open the vs code terminal,
 
 ```typescript
