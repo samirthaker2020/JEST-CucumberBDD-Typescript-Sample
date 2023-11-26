@@ -1,0 +1,16 @@
+{
+	"cucumberautocomplete.steps": ["src/test/steps/*.ts"],
+	"cucumberautocomplete.syncfeatures": "src/test/feature/*.feature",
+	"cucumberautocomplete.strictGherkinCompletion": true,
+	"conventionalCommits.scopes": [
+		"test-login",
+		"upgrade",
+		"posid",
+		"item",
+		"test",
+		"modifier",
+		"view",
+		"site",
+		"brandgroup"
+	]
+}
